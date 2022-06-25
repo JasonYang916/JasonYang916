@@ -6,5 +6,5 @@ Recent graduate from Fordham University with a Math and Computer & Information S
 - 🌱 I’m currently learning. Learning never ends even after college. 
 - 👯 I’m looking to collaborate on any fun projects. 
 - 💬 Ask me about anything! I'll help to the best of my ability. 😃
-- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-yang-6640/) or at jyang142@fordham.edu
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-yang-6640/) or jyang142@fordham.edu
 - ⚡ Fun fact: I love games 🎮. I'll play just about anything, expect for horror games 😧 
